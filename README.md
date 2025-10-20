@@ -7,8 +7,8 @@
 
 ### 📁 Files:
 - `bookings.csv` – Raw data
-- `ola_analysis.sql` – SQL queries
-- `ola_dashboard.pbix` – Power BI dashboard
+- `Ola_queries.sql` – SQL queries
+- `Ola_dashboard.pbix` – Power BI dashboard
 
 ### 🔗 Live Dashboard:
 [View Power BI Dashboard](https://app.powerbi.com/view?r=your-dashboard-link)
