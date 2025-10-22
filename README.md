@@ -11,7 +11,7 @@
 - `Ola_dashboard.pbix` – Power BI dashboard
 
 ### 🔗 Live Dashboard:
-[View Power BI Dashboard](https://app.powerbi.com/view?r=your-dashboard-link)
+[View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/d880ce0e-1e97-4f10-892a-7ba711707f49/a8e5ae8b42be40a8636d?experience=power-bi)
 
 ### Dashboard
 <img width="1920" height="1025" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/1a181b89-57c6-4520-9cb5-c067392123dd" />
