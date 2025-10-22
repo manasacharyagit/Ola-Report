@@ -1,5 +1,16 @@
 # 🚖 OLA Data Analysis Project
 
+# 🚖 Ola Rides Data Analysis (SQL + Power BI)
+
+Analyzed Ola ride-booking data to identify trends in bookings, cancellations, and customer-driver behavior.  
+
+Performed data exploration in **MySQL**, creating views and queries to extract insights such as top customers, ride distance patterns, and reasons for cancellations.  
+
+Built an **interactive Power BI dashboard** showing overall metrics like total bookings, successful rides, cancellation rate, and average driver ratings by vehicle type.  
+
+Delivered insights on customer booking habits, vehicle performance, and ride quality to improve operational decisions.  
+
+
 ### 📊 Tools Used:
 - SQL (MySQL Workbench)
 - Power BI (Dashboard)
