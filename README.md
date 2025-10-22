@@ -12,3 +12,10 @@
 
 ### 🔗 Live Dashboard:
 [View Power BI Dashboard](https://app.powerbi.com/view?r=your-dashboard-link)
+
+### Dashboard
+<img width="1920" height="1025" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/1a181b89-57c6-4520-9cb5-c067392123dd" />
+<img width="1920" height="1019" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/eb7efc39-bfcb-47d3-828d-cda17e3d4e3a" />
+<img width="1920" height="1026" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/968ce0d0-197c-473d-8b9a-114b54cf60c5" />
+<img width="1920" height="1026" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/33c35c96-26bf-4d5d-a5f7-f332680f5743" />
+<img width="1920" height="1023" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/71bd44a3-665a-4ade-aab7-59fa0d16581a" />
