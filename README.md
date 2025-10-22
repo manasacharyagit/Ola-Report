@@ -1,4 +1,3 @@
-# 🚖 OLA Data Analysis Project
 
 # 🚖 Ola Rides Data Analysis (SQL + Power BI)
 
